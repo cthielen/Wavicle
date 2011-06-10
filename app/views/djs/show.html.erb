@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Handle:</b>
+  <%= @dj.handle %>
+</p>
+
+<p>
+  <b>Realname:</b>
+  <%= @dj.realname %>
+</p>
+
+<p>
+  <b>Active:</b>
+  <%= @dj.active %>
+</p>
+
+
+<%= link_to 'Edit', edit_dj_path(@dj) %> |
+<%= link_to 'Back', djs_path %>

@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  artist: MyString
+  year: 2011-06-09
+  label: MyString
+  tracks: 1
+
+two:
+  title: MyString
+  artist: MyString
+  year: 2011-06-09
+  label: MyString
+  tracks: 1

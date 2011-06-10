@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  DJ: 1
+  schedule: 2011-06-09
+  duration: 1
+  description: MyString
+
+two:
+  name: MyString
+  DJ: 1
+  schedule: 2011-06-09
+  duration: 1
+  description: MyString
